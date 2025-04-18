@@ -11,7 +11,6 @@ const memeUrls = [
     'https://i.ytimg.com/vi/ySbYwiyld84/hqdefault.jpg',
     'https://i.kym-cdn.com/photos/images/newsfeed/001/355/516/776.jpg',
     'https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2020/03/5a73f2ab83b42.jpeg',
-    'https://cdn.kibrispdr.org/data/681/john-cena-you-cant-see-me-meme-13.jpg',
     'https://www.thesportster.com/wp-content/uploads/2020/03/bfd.jpg',
     'https://i.kym-cdn.com/photos/images/newsfeed/002/219/145/65a.png',
     'https://static0.thesportsterimages.com/wordpress/wp-content/uploads/2019/10/pjimage-31.jpg',
